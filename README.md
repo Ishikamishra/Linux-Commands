@@ -73,18 +73,17 @@ This command will display the size of the file hello.txt.
 Note
 For running some commands, elevated permissions might be required (e.g., using sudo).
 
-![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/26d701cc-0d43-4beb-bff0-29bc41e2162c) 
+![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/a618e76c-46ff-45d9-b340-799cf5f4ff9a)
 
-![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/6fd9a14c-077a-446f-8d0f-33d83a6f1030)
+![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/b9faceb4-2c6f-4894-a8fb-e3f9337d1e8f)
 
-![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/868f0d68-b5a6-48b5-a35f-29a37304fbb6)
+![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/e3187621-b393-482e-b95e-fe204574f8d2)
 
-![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/035b32b1-4d47-40c8-b052-7dffccc6df72)
+![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/0a3be196-2962-41a1-8c24-8bba6b69be85)
 
-![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/d8908907-19aa-4c52-9074-59060f816e19)
+![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/1819b73e-6ca6-4130-9ea0-82cb5ade00bf)
 
-
-
+![image](https://github.com/Ishikamishra/Linux-Commands/assets/81811063/109b462d-8cde-4952-a11f-1ad5aca29612)
 
 
 
